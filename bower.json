@@ -1,0 +1,26 @@
+{
+  "name": "impress-build-tools",
+  "version": "0.0.1",
+  "authors": [
+    "Jared Loosli <jloosli@gmail.com>"
+  ],
+  "description": "Build tools presentation",
+  "keywords": [
+    "composer",
+    "yeoman",
+    "bower",
+    "grunt"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/jloosli/impress-build-tools",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "impress.js": "~0.5.3"
+  }
+}
